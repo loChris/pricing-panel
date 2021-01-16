@@ -4,7 +4,11 @@ html {
 }
 
 body {
-	background-color: #60a9ff;
+	background: linear-gradient(
+		90deg,
+		rgba(96, 169, 255, 1) 35%,
+		rgba(0, 212, 255, 1) 100%
+	);
 	display: flex;
 	justify-content: center;
 	align-items: center;
